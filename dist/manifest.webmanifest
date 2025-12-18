@@ -1,0 +1,1 @@
+{"name":"Offline Data Tracker","short_name":"Tracker","description":"Offline-capable data collection app","start_url":"/Video-app/","display":"standalone","background_color":"#0f172a","theme_color":"#0f172a","lang":"en","scope":"/Video-app/","icons":[{"src":"icon.svg","sizes":"192x192 512x512","type":"image/svg+xml"}]}
